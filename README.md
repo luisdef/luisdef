@@ -6,3 +6,4 @@
  - 🐦 Twitter [luisdef_](https://twitter.com/luisdef_)
  - 🏡 Moro no RS
 -----
+<img src="https://github-stats.gonoc.vercel.app/api/top-langs/?username=luisassmann&layout=compact&custom_title=Linguagens Usadas" />
