@@ -7,4 +7,4 @@
 Estudante de Técnico em Informática no [IFRS](https://ifrs.edu.br/feliz/).<br>
 Entusiasta por programação e tecnologia.
 
-<img src="https://github-stats.gonoc.vercel.app/api/top-langs/?username=luisassmann&layout=compact&custom_title=Código&theme=tokyonight" />
+<img src="https://github-stats.gonoc.vercel.app/api/top-langs/?username=luisdef&layout=compact&custom_title=Código&theme=tokyonight" />
