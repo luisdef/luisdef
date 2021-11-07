@@ -6,5 +6,3 @@
 
 Estudante de Técnico em Informática no [IFRS](https://ifrs.edu.br/feliz/).<br>
 Entusiasta por programação e tecnologia.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdef&layout=demo)](https://github.com/luisdef/github-readme-stats)
