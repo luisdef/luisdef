@@ -16,9 +16,9 @@ I'm Luis Felipe Assmann, an IT technician and programmer who enjoys creating stu
 - **Other:** Linux ❤️, Git, Scrum, Test-Driven Development.
 
 ## see also
-- [luisdef.com](https://luisdef.com)
-- [LinkedIn](https://www.linkedin.com/in/luisdef-/)
-- email me [luis@luisdef.com](mailto:luis@luisdef.com)
+- [luisdef.com](https://luisdef.com).
+- [LinkedIn](https://www.linkedin.com/in/luisdef-/).
+- Email me [luis@luisdef.com](mailto:luis@luisdef.com).
 
 ****
 
