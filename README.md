@@ -11,8 +11,8 @@ I'm Luis Felipe Assmann, an IT technician and programmer who enjoys creating stu
 
 ## skills & tools
 - **Languages:** Python, JavaScript/TypeScript, Java, PHP, or whatever is best suited for the occasion 😁.
+- **DevOps/Infra:** Docker, VPS, GitHub Actions, AWS (basic).
 - **Frameworks/Libraries:** Node.js, NextJS, Express, Flask, Laravel.
-- **DevOps/Infra:** Docker, GitHub Actions, AWS (basic).
 - **Other:** Linux ❤️, Git, Scrum, Test-Driven Development.
 
 ## see also
