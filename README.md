@@ -1,3 +1,7 @@
+<div align='center'>
+  <img src="loading_github.gif" width="56" />
+</div>
+
 ****
 
 # hello world
@@ -21,6 +25,7 @@ I'm Luis Felipe Assmann, an IT technician and programmer who enjoys creating stu
 - Email me [luis@luisdef.com](mailto:luis@luisdef.com).
 
 ****
+
 
 <!--
 ## Projects
